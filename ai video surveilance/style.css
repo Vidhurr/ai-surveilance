@@ -1,0 +1,10 @@
+#background
+{
+   background: aqua;
+}
+#input
+{
+  width: 150px;
+  height: 100px;
+  border-color: black;  
+}
